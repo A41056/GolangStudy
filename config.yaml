@@ -1,0 +1,4 @@
+issuer: giappq123
+secret_key: 1111111111222222222224444444444
+mongo_db:
+  connection_string: mongodb+srv://giappq1:W6CNpuSXrWw4jQAY@practicedb.pqqqzyt.mongodb.net/?retryWrites=true&w=majority&appName=PracticeDb
